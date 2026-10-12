@@ -3,5 +3,5 @@ An aspiring Machine Learning Engineer and Data Scientist/analyst who loves askin
 
 Every project I build is another opportunity to understand not just *what* works, but *why* it works.
 
-I'm constantly learning, experimenting, and building projects in Machine Learning, Data Science, Python, and SQL to create solutions that have real-world impact.
+I'm constantly learning, experimenting, and building projects in Machine Learning, deep learning, Data Science, Python, and SQL to create solutions that have real-world impact.
 
